@@ -1,0 +1,30 @@
+{
+    "id": 101,
+    "name": "Davinderpal Singh",
+    "email": "davinderpalSingh@example.com",
+    "active": true,
+    "age": 28,
+    "skills": [
+        "python",
+        "sql",
+        "java"
+    ],
+    "address": {
+        "street": "22B Main Road",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "pincode": 560001
+    },
+    "orders": [
+        {
+            "order_id": "ORD1001",
+            "amount": 499.50,
+            "status": "delivered"
+        },
+        {
+            "order_id": "ORD1002",
+            "amount": 1299.00,
+            "status": "pending"
+        }
+    ]
+}

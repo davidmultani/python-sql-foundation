@@ -1,0 +1,9 @@
+   ThIs   iS   A   LoNgER     tEXt   wiTh    EXtra   SpACEs   VaLueS    
+ aNd    rANdoM    CaSeS    LiKe   AbCxyZ    LMnoP      qRsT    
+   HeLLoWorLD      daTaSeT    TeXT    vaLUeS   RuNninG   
+ rANDoMly   sPrEAd     THroUgh     thE   LiNeS   WiTH    NoiSy    
+  CoDe   TeStING    VarIaBLES    xYzABC    ranDOMWordS    
+    in    beTWEEEn     ThE    TeXT    likE    mNOppQrR   HELlo    
+      spREaDInG   ValuEs    rANdoMlY   inTO    tHe   PaRAgrAPh    
+  maKEs   THe    TeXT     MoRe   CoMPLeX     aNd   haRDEr     To    
+      PaRSE    BuT    PeRFeCT    FoR    PrACtiCe    AnD    TEStING   
